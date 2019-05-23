@@ -1,6 +1,6 @@
 <p align = "center">
-<a href = "https://colab.research.google.com/github/sinankamilcelebi/Probability_Mass_Function/blob/master/Probability_Mass_Function.ipynb">
-<img src = "https://colab.research.google.com/assets/colab-badge.svg" width = "150" height = "50" alt = "Open In Colab" title = "Bayes Theorem" align = "center"/>
+<a href = "https://colab.research.google.com/github/sinankamilcelebi/Variance_Bernoulli_and_Binomial/blob/master/Variance_Bernoulli_and_Binomial.ipynb">
+<img src = "https://colab.research.google.com/assets/colab-badge.svg" width = "150" height = "50" alt = "Open In Colab" title = "Variance, Bernoulli and Binomial" align = "center"/>
 </a>
 </p>
 
@@ -10,7 +10,7 @@
 * @author   : Sinan KAMILCELEBI
 * @version  : V1.0.0
 * @date     : 23-May-2019
-* @brief    : The discrete uniform special probability distributions. Variance, Bernoulli and Binomials Example.
+* @brief    : The discrete uniform special probability distributions. Variance, Bernoulli and Binomial Example.
 
 # I - Varyans 
 
