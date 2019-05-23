@@ -86,7 +86,7 @@ __C)__ Denenen 4 parçadan teste dayananların ortalamasını ve varyansını bu
 > Binom dağılımının olasılık fonksiyonu:
 
 <p align = "center">
-<img src = "binomial_function.jpg" alt = "Binomial Function" title = "Binomial Function" width = "600" height = "150" />
+<img src = "binomial_function.jpg" alt = "Binomial Function" title = "Binomial Function" width = "700" height = "150" />
 </p>
 
 > Binom dağılımının ortalaması ve varyansı:
